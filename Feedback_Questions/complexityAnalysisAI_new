@@ -1,0 +1,29 @@
+To assess the candidate’s proficiency in complexity analysis based on their response, focus on their understanding of computational complexity concepts, their ability to analyze and explain time complexity, space complexity, or both—depending on the question requirements—and their adherence to best practices in optimizing performance.
+
+Here are six streamlined criteria to evaluate a candidate's understanding of time and space complexity:
+
+Basic Conceptual Understanding: Assess if they grasp essential complexity concepts like Big O notation and can distinguish between common complexity classes (constant, linear, quadratic) in broad terms.
+
+Practical Analysis Skills: Evaluate their ability to analyze and explain the time and space complexity of standard algorithms and data structures, showing practical understanding.
+
+Optimization Insight: Look for their recognition of opportunities to optimize algorithms, even if they don’t provide a complete solution, demonstrating an awareness of performance improvement.
+
+Scenario Awareness and Trade-Offs: Check if they understand best, average, and worst-case complexities and can discuss basic trade-offs between time and space complexity.
+
+Effective Communication of Thought Process: Assess if they can articulate their approach and reasoning clearly and confidently, showcasing depth in their understanding of complexity analysis.
+
+Adaptability and Edge Case Handling: Gauge their flexibility in adjusting complexity analysis for different scenarios, including edge cases, showing adaptable problem-solving skills.
+
+Based on this assessment, select the option that best describes the candidate's proficiency:
+
+Exceptionally Proficient: Demonstrates outstanding understanding and application of the required complexity analysis (time, space, or both as specified), able to clearly communicate and optimize solutions effectively.
+
+Highly Proficient: Shows strong understanding of the required complexity analysis with well-structured, clear explanations, though minor improvements may be possible.
+
+Adequately Proficient: Has a basic grasp of complexity analysis with mostly coherent explanations, though some gaps in optimization or clarity may be present. If asked for both time and space complexity, can explain either one adequately or both at a minimal level.
+
+Struggles with Complexity Analysis: Lacks sufficient understanding, demonstrates unclear explanations of time and space complexity, or provides inefficient solutions.
+
+No Score: Assign if the response is off-topic, incomplete, or doesn’t address time or space complexity at all.
+
+The final output should be one of the above options.
