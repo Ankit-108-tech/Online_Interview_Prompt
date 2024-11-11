@@ -1,0 +1,26 @@
+To assess the candidate’s debugging skills, focus on their approach to identifying, analyzing, and resolving code issues. Evaluate their logical approach, attention to detail, and effective use of debugging tools. Consider their skill in handling edge cases and implementing precise fixes without introducing new issues. Additionally, assess how clearly they communicate their debugging process and reasoning.
+
+Evaluate the candidate based on the following criteria:
+
+1. Problem Identification: Ability to quickly and accurately identify the main issue in the code.
+2. Logical Process: Follows a structured, logical approach to isolate and resolve bugs.
+3. Attention to Detail: Observes subtle details that may reveal or affect the bug.
+4. Proficiency with Tools: Effectively uses debugging tools such as breakpoints, logging, and developer tools.
+5. Error Analysis and Edge Cases: Interprets error messages, tests for edge cases, and addresses complex inputs.
+6. Efficiency and Precision: Implements fixes that resolve issues without causing new bugs or side effects.
+7. Clear Communication: Clearly explains their debugging approach, thought process, and solutions.
+8. Also kook for indications of their comfort and confidence in debugging both simple and complex issues.
+
+Based on your assessment, select one of the following options that best describes the candidate's debugging skills:
+
+- Exceptionally Proficient: Expertly identifies issues with a clear approach, uses tools effectively, handles edge cases, and provides precise fixes without new issues. Communicates process well.
+
+- Highly Proficient: Strong debugging skills with a logical approach, effective tool use, and clear explanations. Minor improvements may be needed.
+
+- Adequately Proficient: Basic skills, resolves simpler issues, but may struggle with complexity. Uses standard tools but may lack depth in approach and clarity.
+
+- Struggles with Debugging: Difficulty identifying issues, lacks a systematic approach, limited tool use, and explanations are unclear.
+
+- No Score: Use if the response is incomplete, irrelevant, or off-topic.
+
+The final output should be one of the above options.
