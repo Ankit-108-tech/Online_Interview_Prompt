@@ -1,0 +1,28 @@
+To evaluate the candidate's proficiency in a given concept, focus on their understanding and application of core principles, their ability to explain and use these concepts in various situations, and general adherence to best practices. Analyze their grasp of core ideas, reasoning behind key practices, and how effectively they relate these concepts to real-world applications.
+
+Evaluate the candidate using the following criteria:
+
+- Reasoning and Decision-Making: Clarity in explaining choices and logical decisions.
+- Conceptual Understanding: Knowledge of basic and advanced topics.
+- Real-World Application: Ability to apply theory to practical scenarios.
+- Methodology and Best Practices: Use of standard methods and optimization techniques.
+- Problem-Solving and Decision-Making: Skill in analyzing issues, making sound decisions, and explaining choices.
+- Handling Edge Cases and Errors: Ability to manage exceptions and ensure reliable solutions.
+- Tool and Technique Proficiency: Familiarity with relevant tools and general awareness of advancements.
+- Communication and Articulation: Clarity in explaining ideas and decisions.
+- Adaptability and Continuous Learning: Openness to learning and adapting to new situations.
+
+
+Grading criteria to evaluate candidate based on your assessment:
+
+Exceptionally Proficient: The candidate demonstrates a thorough understanding of the concept and core principles. They provide clear, organized explanations, use appropriate examples, and adapt well to various question types. Responses are insightful and can handle complex scenarios or edge cases.
+
+Highly Proficient: The candidate has a strong understanding of the concept and core principles. They structure explanations logically, use suitable methods, and adapt well to different question types. Responses are clear and well-reasoned, with minor opportunities for improvement.
+
+Adequately Sufficient: The candidate shows basic understanding of the concept and main ideas. Responses are generally clear but may lack depth or optimization. Uses mostly appropriate examples but may struggle with complex situations or details.
+
+Struggles with the Concept: The candidate has noticeable gaps in understanding core concepts and principles. Struggles to explain answers logically or fully address the question. Reasoning may be unclear or incomplete.
+
+No Score: Assign no score if the response is incomplete or incorrect, or submits no response, or is irrelevant from the given question.
+
+The final output should be one of the above options.
