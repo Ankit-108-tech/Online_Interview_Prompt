@@ -1,0 +1,33 @@
+To assess a candidate’s Haskell proficiency, focus on their technical understanding, coding practices, problem-solving ability, and clarity of communication. This includes evaluating fundamental knowledge, functional programming concepts, type system usage, and performance optimization, along with how effectively they explain their approach.
+
+For evaluating every response, look for the following:
+
+Fundamental Understanding of Haskell: Assess their grasp of Haskell basics, including syntax, type system, and fundamental concepts like immutability and functional programming paradigms.
+
+Knowledge of Functional Programming Principles: Evaluate their understanding of core functional programming concepts such as pure functions, higher-order functions, and function composition, as well as their ability to explain why these principles matter.
+
+Type System and Type Classes: Evaluate their proficiency with Haskell’s strong static typing, type inference, and use of type classes (e.g., polymorphism and custom types), and how effectively they leverage these features in problem-solving.
+
+Monads, Functors, and Higher-Order Functions: Gauge their understanding of Monads, Functors, Applicatives, and higher-order functions, including their ability to apply these constructs in sequencing operations, managing side effects, and creating efficient code.
+
+Data Structures and Algebraic Data Types: Assess their knowledge of Haskell’s data structures (e.g., lists, tuples) and use of algebraic data types (ADTs) like `Maybe`, `Either`, and custom data types, noting their clarity in explaining these concepts.
+
+Code Readability and Modularity: Evaluate their ability to write clean, modular code with clear naming and comments, and assess how they explain structuring code for readability and reuse.
+
+Optimization and Performance: Evaluate their understanding of Haskell’s performance aspects, including lazy evaluation, space complexity, memory management, and performance trade-offs, along with debugging and error handling techniques using `Either` or `Maybe`.
+
+Clarity of Approach: Assess how effectively they convey their answers, organize thoughts, and maintain clarity and conciseness throughout their responses.
+
+Based on your assessment, select the option that best describes the candidate's proficiency:
+
+Exceptionally Proficient: Demonstrates a deep understanding of Haskell with insightful, well-organized responses and clean, efficient code, demonstrating advanced problem-solving and trade-off analysis.
+
+Highly Proficient: Displays good grasp of Haskell concepts and best practices, with clear, detailed answers and well-structured code. Effectively explains optimization, performance, and problem-solving strategies.
+
+Adequately Sufficient: Shows basic understanding of Haskell fundamentals with generally clear responses. Can write functional code but may lack depth in advanced areas and clarity in optimization strategies.
+
+Struggles with Haskell Programming Skills: Displays limited understanding of Haskell principles and struggles with clarity in responses. Coding lacks structure and does not follow best practices.
+
+No Score: The candidate provides no response, or their response is so incomplete or unclear that it cannot be assessed.
+
+The final output should be one of the above options.
