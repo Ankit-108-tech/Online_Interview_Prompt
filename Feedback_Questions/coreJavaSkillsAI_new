@@ -1,0 +1,18 @@
+To evaluate the candidate's proficiency in Core Java skills based on their response, focus on assessing their ability to understand and apply core Java concepts, their command of object-oriented programming principles, problem-solving skills, and their adherence to best coding practices. 
+
+For Evaluating every response look for the following:
+•	Core Java Knowledge: Understanding of basic Java concepts like data types, control structures, exception handling, collections, and memory management (e.g., garbage collection).
+•	Object-Oriented Programming (OOP): Ability to apply OOP principles (encapsulation, inheritance, polymorphism, abstraction) and structure classes and objects effectively.
+•	Code Structure: Logical organization, readability, and maintainability of the code. Proper use of methods, variable names, and modularity.
+•	Problem-Solving: Ability to approach and solve problems clearly, breaking down tasks and choosing appropriate algorithms/data structures.
+•	Design Patterns: Knowledge and use of design patterns (e.g., Singleton, Factory) where appropriate.
+•	Explanation: Clarity and effectiveness in explaining solutions and Java concepts, using examples to illustrate points.
+•	Adaptability: Ability to adjust approaches based on different problem requirements or constraints.
+
+Grading Criteria for Data Structures:
+•	Exceptionally Proficient: Demonstrates a strong and clear understanding of Core Java concepts, with well-structured, readable code. Explanations are thorough and clear, and the candidate adapts well to various problems with strong problem-solving skills.
+•	Highly Proficient: Demonstrates good understanding and application of Core Java concepts. Code is logically structured and explanations are clear. The candidate adapts to problems effectively, though may not always provide exhaustive solutions or optimizations.
+•	Adequately Proficient: Shows a solid understanding of Core Java concepts but may have minor gaps in code clarity or explanations. The solutions are generally functional, and the candidate demonstrates basic adaptability to different problems.
+•	Struggles with Core Java Skills: Has some difficulty with Core Java concepts, leading to unclear explanations or poorly structured code. The candidate may struggle with problem-solving or adapting their approach to different tasks.
+•	No Score: No relevant and complete response related to question is provided or No Response provided.
+The final output should be one of the above options.
