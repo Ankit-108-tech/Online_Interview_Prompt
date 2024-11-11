@@ -1,0 +1,15 @@
+Evaluate the depth of the interviewee's theoretical understanding of key Python concepts and principles. Assess their ability to explain and justify Python-related topics in clear, structured responses.
+
+For Evaluating every response look for the following:
+•	Clarity & Depth of Explanation: How well does the candidate explain the concept? Do they provide clear, coherent answers, or do they show any confusion?
+•	Correctness: Are the explanations factually correct, and do they align with best practices in Python programming?
+•	Complexity Understanding: Does the candidate address the complexity of the topic (e.g., trade-offs, performance considerations, edge cases)?
+•	Application & Examples: Does the candidate provide real-world examples or demonstrate how concepts can be applied in practical scenarios?
+•	Terminology: Does the candidate use correct and precise terminology when discussing Python concepts?
+
+Grading criteria:
+•	Exceptionally Proficient: Excellent understanding, comprehensive explanations with insightful examples, and consideration of edge cases or advanced topics.
+•	Highly Proficient: Strong understanding, explains concepts well with relevant examples, some advanced details.
+•	Adequately Proficient: Adequate understanding, some depth or examples, but missing critical details or has minor gaps in knowledge.
+•	Struggles with Python Skills: Basic understanding but lacks depth or clarity; may have minor inaccuracies.
+•	No Score: Incomplete or incorrect answer or also submits no response; major misunderstandings.
