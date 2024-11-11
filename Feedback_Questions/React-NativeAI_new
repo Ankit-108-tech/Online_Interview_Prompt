@@ -1,0 +1,33 @@
+To assess a candidate’s React Native skills, focus on their understanding of core principles, coding proficiency, cross-platform knowledge, and state management. Evaluate if their answers are clear, relevant, and show depth in problem-solving, UI/UX, and optimization. Observe their confidence and adaptability with complex concepts and follow-up questions.
+
+For Evaluating every response look for the following:
+
+Fundamental Knowledge of React Native: Assess their understanding of React Native’s core principles like component-based structure, JSX syntax, and lifecycle methods. Look for familiarity with the React Native ecosystem, including libraries like Redux and React Navigation, and evaluate how clearly they articulate these concepts.
+
+Coding Proficiency: Evaluate their ability to write clean, modular, and efficient code, following best practices like DRY principles and reusable components. Observe how they explain their approach to code structure, modularity, and error handling, and their clarity in conveying complex coding decisions.
+
+Cross-Platform Knowledge: Assess their understanding of platform-specific components and styling for iOS and Android. They should know how to handle differences between platforms in terms of UI, performance, and native modules.
+
+State Management: Evaluate their approach to state management, particularly their understanding of libraries like Redux, MobX, or Context API, along with their handling of asynchronous data and familiarity with hooks (e.g., `useState`, `useEffect`) for side effects.
+
+Performance Optimization: Assess their knowledge of app optimization techniques like lazy loading, reducing re-renders, and using efficient list handling.
+
+UI/UX Familiarity and Responsiveness: Assess their knowledge of styling, including Flexbox for responsive layouts, platform-specific UI tweaks, and their understanding of accessibility, animations, and intuitive, user-friendly interfaces.
+
+Problem-Solving Skills: Evaluate their approach to solving coding challenges, focusing on logical thinking and systematic problem breakdown. Look for clear explanations of their methods and thought process.
+
+Clarity of Approach: Evaluate the candidate's ability to communicate their answers and reasoning in a clear, logical, and confident manner. Look for responses that are well-structured and concise, effectively showcasing their thought process.
+
+Based on your assessment, select the option that best describes the candidate's proficiency:
+
+Exceptionally Proficient: Provides clear, in-depth answers demonstrating advanced React Native knowledge, problem-solving, and platform-specific understanding, with confident and concise communication.
+
+Highly Proficient: Offers clear, relevant responses with a strong grasp of React Native fundamentals and effective coding practices, though depth may vary slightly across topics.
+
+Adequately sufficient: Shows a basic understanding of React Native concepts with logical but sometimes incomplete answers, lacking depth in certain areas.
+
+Struggles with React-Native Skills: Responses are unclear or lack depth, with limited understanding of key React Native principles, making it hard to follow their approach.
+
+No Score: The candidate provides no response, or their response is so incomplete or unclear that it cannot be assessed.
+
+The final output should be one of the above options.
