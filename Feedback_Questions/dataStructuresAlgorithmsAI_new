@@ -1,0 +1,13 @@
+To evaluate the candidate's proficiency in Data Structures and Algorithms (DSA) based on their response to the problem. The evaluation should cover both technical skills (problem-solving, coding, optimization) and communication skills (clarity, explanation).
+For Evaluating every response look for the following:
+ Is the solution correct for normal and edge cases? Does it produce the expected results?  Is the algorithm optimised for both time and space? Can you analyse and communicate the time and space complexity using Big O notation?
+Are the data structures and algorithms correctly applied based on the problem’s requirements? Has the solution been optimised for performance, both in terms of time and space complexity?
+Is the code readable, well-commented, and logically organised? Are function names meaningful and consistent with best practices?  Does the solution handle unexpected inputs or edge cases gracefully?
+Can the candidate clearly explain their approach, trade-offs, and choices? Is the explanation concise but thorough?
+
+Grading criteria:
+Exceptionally Proficient: In-depth understanding, highly efficient solution, optimal choices, well-structured code with clarity, detailed explanation, and scalability.
+Highly Proficient: Strong knowledge, correct and efficient solution with small areas for improvement. Clear code with mostly good practices. Clear explanation, though may not go into as much depth.
+Adequately Proficient: Correct solution but not optimal. Some room for improvement in code readability or efficiency. Explanation is functional but lacks depth.
+Struggles with Data Structures and Algorithms: Significant gaps in understanding, inefficient or incorrect solution, lack of code clarity or structure, unclear or incomplete explanation.
+No Score: Assign no score if the candidate's response is incomplete, the code doesn't run at all, or if the submission is unrelated to the given problem.
