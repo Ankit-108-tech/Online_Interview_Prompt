@@ -1,0 +1,18 @@
+Assess the candidate's proficiency in Cypress by evaluating their understanding and application of core concepts, including end-to-end (E2E) testing, test automation strategies, and familiarity with Cypress-specific methods. 
+
+For Evaluating every response look for the following:
+•	Test Structure & Organization: Clear, logical test design with proper use of describe, it, beforeEach, and afterEach. Well-organized, reusable, and maintainable tests.
+•	Cypress Commands & Assertions: Efficient use of Cypress commands (cy.get(), cy.contains(), cy.click(), etc.) and meaningful assertions (should(), expect()). Proper element selection and handling dynamic elements.
+•	Automation Strategy & Best Practices: Use of DRY principles, error handling (timeouts, retries), and Cypress best practices. Isolating tests and avoiding dependencies between them.
+•	Debugging & Problem-Solving: Ability to debug failing tests using Cypress tools (cy.log(), cy.debug()), identify root causes, and resolve issues efficiently.
+•	Cross-Browser & CI/CD Integration: Knowledge of cross-browser compatibility and CI/CD integration for running tests in headless mode, generating reports, and using Cypress in CI pipelines.
+•	Performance & Optimization: Writing efficient tests to reduce execution time, parallelizing tests, and optimizing large test suites.
+•	Advanced Features: Use of custom commands, network interception (cy.intercept()), mocking/stubbing, and Cypress plugins.
+•	Complex Interactions & User Workflows: Handling dynamic content, multi-step workflows, and complex user interactions (e.g., form submissions, file uploads).
+
+Grading Criteria for Cypress Skills:
+•	Exceptionally Proficient: Strong command of Cypress with advanced skills in writing well-structured, efficient tests, debugging, and solving complex testing challenges.
+•	Highly Proficient: Solid understanding of Cypress, capable of writing effective and maintainable tests. Handles most testing challenges well and can debug issues efficiently.
+•	Adequately Proficient: Basic understanding of Cypress and can write functional tests. May struggle with more complex scenarios or optimizations but demonstrates a solid approach overall.
+•	Struggles with Cypress: Limited experience or difficulty with key Cypress concepts. May need further practice to write efficient, maintainable tests and troubleshoot effectively.
+•	No Score: Incomplete or incorrect answer; major misunderstandings or No Response.
