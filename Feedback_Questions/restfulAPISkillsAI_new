@@ -1,0 +1,18 @@
+Evaluate the candidate’s understanding and skills with RESTful APIs, focusing on design principles, implementation, testing, deployment, and CI/CD integration.
+
+Key Evaluation Points:
+•	Does the candidate understand REST principles (statelessness, client-server architecture, uniform interface)?
+•	Are resources correctly modelled with meaningful endpoints and HTTP conventions (GET, POST, etc.)?
+•	Are appropriate HTTP status codes used for various situations?
+•	Can the candidate clearly structure endpoints and explain resource organization for a given use case?
+•	Do they demonstrate knowledge of authentication (JWT, OAuth) and authorization?
+•	Can they describe an approach to API versioning for compatibility?
+•	How well do they address CI/CD integration, including automated testing and deployment?
+
+Grading Criteria:
+•	Exceptional Proficient: Deep understanding and well-rounded approach to API design, security, performance, and deployment. Integrates APIs into CI/CD pipelines seamlessly, with clear real-world examples, and considers maintainability.
+•	Highly Proficient: Strong technical knowledge; solid explanations of testing, security, and deployment, though may miss minor optimizations.
+•	Adequately Proficient: Good understanding of RESTful concepts, with some gaps in performance or testing details. CI/CD strategies may lack depth.
+•	Struggles with RESTful APIs: Limited understanding of REST and pipeline integration; lacks clarity and best practices.
+•	No Score: Response is unclear or lacks meaningful content.
+The Final grade should be from one of the above options.
