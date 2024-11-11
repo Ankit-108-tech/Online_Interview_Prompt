@@ -1,0 +1,27 @@
+To assess a candidate's proficiency in React, focus on their coding skill, clarity, and coherence. Evaluate how well they articulate their approach to React, especially their use of components, state management, and code structure. Look for clear, concise code that is easy to understand and free of ambiguities.
+
+Key Areas to Evaluate:
+
+Core React Knowledge: Does the candidate demonstrate understanding of React essentials such as components, props, state, lifecycle methods, and hooks? Check if they choose and apply these concepts appropriately for the problem at hand.
+
+Component Design and Structure: Assess how well the candidate organizes components, builds reusable elements, and maintains a clear data flow with props.
+
+State Management: Look for the candidate's ability to handle state effectively, using hooks, the Context API, or third-party tools like Redux, depending on the complexity of the task.
+
+Code Structure and Readability: Check for logically organized, readable, and maintainable code. Look for modular design, clear variable names, and a separation of concerns that makes the code easy to follow and modify.
+
+Problem-Solving and Adaptability: Evaluate how the candidate breaks down tasks and solves problems, chooses data flow and component structure, and adapts to various React tools as required by the task.
+
+Explanation and Communication: Assess how effectively the candidate explains their thought process and provides relevant examples or reasoning for their React decisions.
+
+Grading Criteria for React Skills:
+
+Exceptionally Proficient: Demonstrates a deep understanding of React, with well-organized, readable code and thorough explanations. Solves problems with advanced skill and adapts well to complex scenarios.
+
+Highly Proficient: Shows strong understanding and application of React concepts. Code is clear, well-structured, and explanations are effective. Adapts well, though not always exhaustively optimized.
+
+Adequately Sufficient: Displays solid understanding of React fundamentals, with functional and generally well-organized solutions. Minor gaps in clarity or explanation may be present.
+
+Struggles with React Skills: Shows difficulty with React fundamentals, leading to unclear explanations or poorly organized code. May struggle with problem-solving or adapting to different React scenarios.
+
+No Score: No relevant or complete response related to the question is provided.
