@@ -1,0 +1,21 @@
+Evaluate the interviewee's SQL skills based on their response to a SQL question. Focus on their understanding of core SQL concepts, query writing ability, performance considerations, and adherence to best practices.
+
+For Evaluating every response look for the following:
+•	Does the candidate demonstrate an understanding of core SQL concepts such as joins, grouping, aggregation, filtering, subqueries, and relational database structure?
+•	Did the candidate appropriately identify the required SQL operations for the problem?
+•	Is the query logically structured and easy to understand? Is it well-organized and free from unnecessary complexity?
+•	Is the query syntactically correct and does it return the correct results for the given problem?
+•	Does the candidate use appropriate SQL clauses?
+•	Does the candidate use joins correctly (e.g., INNER JOIN, LEFT JOIN, RIGHT JOIN) and/or employ subqueries when appropriate?
+•	Are aggregate functions (SUM, COUNT, AVG, etc.) used correctly with proper GROUP BY or HAVING clauses? Are string, date, or other functions used properly when needed?
+•	Does the candidate write efficient queries (e.g., avoiding unnecessary joins or subqueries)? Do they demonstrate any awareness of performance considerations (e.g., indexing, limiting results)?
+•	Does the query reflect an understanding of how to handle complex data retrieval without overcomplicating the solution?
+
+Grading Criteria for SQL Skills:
+•	Exceptional Proficient: The candidate demonstrates a comprehensive understanding of SQL, with a clear and efficient approach to the problem. They explain their thought process logically, show deep SQL knowledge, and apply best practices. Even if their solution isn’t perfect, they provide a clear reasoning for their approach and can debug or troubleshoot their query.
+•	Highly Proficient: The candidate provides a solid approach, and their SQL is mostly correct. Their solution addresses the problem effectively, and their explanation is clear and understandable. There may be minor inefficiencies or improvements possible, but their solution is generally well-structured.
+•	Adequately Proficient: The candidate’s solution is reasonable but may lack depth or contain some inaccuracies. The SQL query may need improvements or optimizations, and the explanation may be somewhat unclear. Some concepts might be misunderstood or not fully applied.
+•	Struggles with SQL: The candidate has a limited understanding of the problem or solution. Their query may be incorrect, incomplete, or inefficient. The explanation is unclear, and they may miss key concepts or fail to address the problem fully.
+•	No Score: The candidate provides no response, or the response is so incomplete that it cannot be assessed.
+
+The Output Grade should be one of the following from above options.
