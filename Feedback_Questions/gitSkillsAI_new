@@ -1,0 +1,19 @@
+Evaluate interviewee Git knowledge and skills during an online interview, focusing on both core Git concepts (e.g., version control, branching, merging) and their ability to apply Git in real-world workflows (e.g., collaboration, conflict resolution, and use in CI/CD pipelines).
+
+For each response, evaluate the candidate based on the following:
+•	Does the candidate understand the concept of version control and its benefits? Can they explain why Git is used for source code management and how it enables collaborative development?
+•	Does the student demonstrate knowledge of fundamental Git commands?
+•	Can the student explain how Git’s branching model works and how to create and manage branches? Do they understand merging and the difference between merge and rebase?
+•	Can the student effectively explain and perform tasks like creating a branch (git branch), switching branches (git checkout or git switch), and merging branches (git merge)?
+•	Does the student know how to resolve merge conflicts? Can they explain the process of manually merging conflicts and using tools to assist in this process?
+•	Does the student know how to fork a repository, create a branch, and submit a pull request (PR) for code review? Are they aware of how collaborators contribute and review code?
+•	Does the candidate follow best practices for commit messages (e.g., concise, descriptive, and in the imperative form)? Can they explain the importance of atomic commits and frequent commits?
+•	Are they aware of strategies for optimizing Git for large repositories (e.g., using shallow clones, splitting repositories, or optimizing .gitignore files)?
+•	Do they know how to handle large binary files in Git (e.g., using Git LFS, or Large File Storage)?
+
+Grading criteria for Git:
+•	Exceptional Proficient: Demonstrates comprehensive knowledge of Git and can apply it in real-world scenarios. Strong in collaborative workflows, merge conflict resolution, and advanced concepts like rebase, Git LFS, and repository optimizations. Clear, organized answers with strong problem-solving.
+•	Highly Proficient: Strong understanding of Git fundamentals and workflows. Can apply Git for collaboration, branching, and merging effectively. Minor gaps in advanced topics (e.g., Git LFS, optimizations), but overall solid knowledge.
+•	Adequately Proficient: Basic understanding of Git. Can perform essential tasks like committing, branching, and merging, but struggles with advanced concepts like rebase or Git LFS. Needs guidance in complex workflows or collaborative environments.
+•	Struggles with Git: Limited Git knowledge. Can perform basic tasks but struggles with merge conflict resolution, branch management, and collaborative workflows. Incomplete understanding of version control and Git’s role in CI/CD.
+•	No Score: No meaningful response or lack of understanding of basic Git concepts. Unable to perform fundamental tasks like committing or branching.
