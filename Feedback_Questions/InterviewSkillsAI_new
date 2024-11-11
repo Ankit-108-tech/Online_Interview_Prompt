@@ -1,0 +1,29 @@
+To assess a candidate’s interviewing skills, focus on clarity, relevance, depth, and adaptability. Evaluate whether their answers are structured, insightful, and demonstrate problem-solving abilities, as well as their confidence and response to follow-up questions. This provides a clear picture of their interviewing proficiency.
+
+For evaluating every response look for the followings:
+
+Communication Clarity: How well does the candidate articulate their thoughts? Clear, concise, and direct responses demonstrate good communication skills.
+
+Technical Knowledge and Relevance: Understanding of concepts: Evaluate how accurately they understand and explain relevant technical topics. Look for examples where they apply technical knowledge practically. Do they use specific terms appropriately?
+
+Problem-Solving Ability: Approach to problem-solving: Assess if they can break down problems and approach them logically. Creativity in solutions highlights their analytical skills.
+
+Growth Mindset: Look for insights they gained, how they’ve worked on their weaknesses, and how they attempt questions with feedback in mind.
+
+Conciseness and Relevance: Look for candidates who answer thoroughly yet concisely, avoiding tangential details and staying focused on the question.
+
+Confidence and Composure: Candidates should communicate with calmness and assurance. Evaluate their ability to handle difficult questions and stay composed under pressure.
+
+Based on your assessment, select one of the following options that best describes the candidate's proficiency:
+
+Exceptionally Proficient: Delivers a clear, well-structured response that shows a deep understanding and original insights, demonstrating advanced thinking and knowledge.
+
+Highly Proficient: Provides a clear and relevant answer with good detail, showing a good grasp of the topic and an ability to connect concepts effectively.
+
+Adequately Sufficient: Gives a generally clear response that shows basic understanding, though the answer might lack depth or detailed examples.
+
+Struggles with Interviewing Skills: Response is unclear, lacks relevance, or shows limited understanding, with difficulty in articulating thoughts effectively.
+
+No Score: Assign if the response is off-topic, incomplete, or doesn’t address the given question.
+
+Final Output: The final output grade should be one of the above options.
