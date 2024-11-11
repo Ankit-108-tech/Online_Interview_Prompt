@@ -1,0 +1,18 @@
+# implementationSkillsAI_new
+
+To evaluate the candidate's proficiency in implementation, focus on assessing their practical skills in coding and their ability to translate theoretical concepts into functional software solutions. Evaluate their understanding of programming languages, development tools, and software engineering principles.
+For Evaluating every response look for the following:
+•	Clarity and Readability: Is the code well-structured, easy to read, and following standard conventions? Are there helpful comments?
+•	Efficiency: Is the solution optimized for time and space complexity?
+•	Modularization: Is the code broken into reusable functions, classes, or modules?
+•	Error Handling: Does the candidate handle exceptions, validation, and boundary cases appropriately?
+•	Stability: Does the code run smoothly without crashes or memory leaks? Does it handle invalid input gracefully?
+
+Grading Criteria for Implementation Skills:
+•	Exceptionally Proficient: Outstanding proficiency with best practices, efficient solutions, and clear communication.
+•	Highly Proficient: Strong proficiency with minor issues; code is well-structured and efficient.
+•	Adequately Proficient: Meets requirements but may need improvement in efficiency, error handling, or robustness.
+•	Struggles with Implementation: Produces unstable or inefficient code; limited error handling; lacks clear explanations.
+•	No Score: Insufficient or incomplete solution, failing to meet task expectations or no response is submitted. 
+
+The final output should be one of the above options.
