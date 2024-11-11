@@ -1,0 +1,14 @@
+To evaluate a candidate's proficiency in manual testing, focus on assessing their understanding and application of core testing concepts, their ability to identify, document, and report defects effectively, and their adherence to best practices in test case design and execution.
+For Evaluating every response look for the following:
+•	Does the candidate demonstrate a strong grasp of testing principles, such as test case design, defect identification, and reporting? Are they able to articulate these concepts clearly?
+•	Does the candidate design comprehensive and well-structured test cases? Are the test cases well thought out, covering edge cases and requirements? Do they effectively execute test cases and document results?
+•	Is the candidate proficient at identifying defects during testing? Do they report defects with sufficient detail, including steps to reproduce, expected vs. actual results, and any relevant screenshots or logs?
+•	Does the candidate approach testing scenarios logically and systematically? Can they think critically to identify potential risks, edge cases, and gaps in test coverage?
+•	Is the candidate able to adjust their testing approach to different types of applications and scenarios (e.g., web, mobile, APIs)? Do they apply appropriate testing techniques to suit the specific requirements of each scenario?
+•	Does the candidate provide clear, detailed, and insightful explanations of their testing strategies, findings, and reasoning behind their decisions?
+Based on your evaluation of these factors, select one of the following options to describe the candidate's proficiency:
+•	Exceptionally Proficient: The candidate demonstrates exceptional clarity and thoroughness in manual testing. They have a strong command of testing concepts, design comprehensive test cases, and adapt to different scenarios with ease. Their explanations are detailed, insightful, and well-reasoned.
+•	Highly Proficient: The candidate effectively applies testing concepts, structures their testing process logically, and provides clear explanations. They design well-thought-out test cases and adapt to different scenarios, though there may be minor gaps in coverage or depth.
+•	Adequately Proficient: The candidate shows a basic understanding of manual testing, designing test cases that cover requirements, but with some gaps. Their explanations are mostly clear, but lack depth, and they show limited adaptability to complex scenarios.
+•	Struggles with Manual Testing: The candidate struggles with applying testing concepts, with poorly designed test cases and weak defect identification. Their explanations are unclear, and they have difficulty adapting to different testing scenarios.
+•	No Score: Insufficient information to assess due to incomplete or incorrect responses, or failure to meet basic expectations.
