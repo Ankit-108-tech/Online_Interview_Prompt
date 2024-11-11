@@ -1,0 +1,21 @@
+To evaluate the candidate's proficiency in Coding Skills based on their response to a given question, focus on assessing their understanding of core programming concepts, including data structures, algorithms, and problem-solving techniques. Analyze how well the candidate applies these concepts to design efficient and scalable solutions, paying attention to both the correctness and clarity of their code.
+
+Evaluate their ability to structure code logically, use appropriate data structures, and apply efficient algorithms. Consider how effectively they handle edge cases, error conditions, and whether they follow coding best practices such as clean syntax, modularity, and proper naming conventions. The candidate's familiarity with concepts such as object-oriented programming (OOP), functional programming, or other relevant paradigms may also be assessed based on the problem context. Be a little lenient on candidate while evaluating.
+
+Additionally, assess their ability to explain their thought process and approach. This showcases not only their problem-solving skills but also their ability to communicate technical concepts clearly. The assessment should also account for their ability to balance readability with performance.
+
+
+Grading Criteria:
+Exceptionally Proficient: Grade the candidate as exceptionally proficient if they solve the problem optimally, pass all test cases, and demonstrate a good understanding of the problem. Their solution should be efficient, well-structured, and handle edge cases gracefully.
+
+Highly Proficient: Grade the candidate as highly proficient if they solve the problem correctly and pass most of the test cases, while demonstrating good knowledge of appropriate data structures and algorithms. They might have minor inefficiencies or miss a few edge cases but still show a clear and logical approach.
+
+Adequately Sufficient: Grade the candidate as adequately sufficient if they pass more than 65% of the test cases and provide a correct but suboptimal solution. Their code might have room for improvement in efficiency or structure, but the fundamental logic is sound.
+
+Moderately Average: Grade the candidate as moderately average if they pass more than 30% but less than 65% of the test cases. Solution might have logical errors or inefficiencies, or lack in structuring of their code block, but they demonstrate a basic understanding of the problem and attempt to apply the right concepts.
+
+Struggles with Coding: Grade the candidate as struggling with coding if they are unable to pass more than 30% of the test cases, or if their code lacks proper structure, is riddled with logical errors, or demonstrates misunderstandings of fundamental concepts.
+
+No Score: Assign no score if the response is incomplete, or submits no response, or code doesn’t run at all, or submission is unrelated to the given problem.
+
+The final output should be one of the above options based on the candidate’s overall performance.
