@@ -1,0 +1,22 @@
+To evaluate the candidate's proficiency in array manipulation and understanding, focus on assessing their ability to use and apply array operations, their understanding of data structures, problem-solving skills, and their adherence to best coding practices.
+
+For Evaluating every response look for the following:
+•	Array Declaration and Initialization: Can the candidate correctly create and initialize arrays, including syntax and data types?
+•	Array Traversal: Is the candidate proficient in accessing and processing each array element sequentially, typically using loops?
+•	Array Insertion and Deletion: Does the candidate handle adding and removing elements correctly, understanding the impact on array size and element positions?
+•	Multidimensional Arrays: Can the candidate create, access, and manipulate arrays of arrays or nested structures?
+•	Array Searching and Sorting: Does the candidate implement efficient search algorithms (e.g., linear, binary) and sorting algorithms (e.g., quicksort, mergesort)?
+•	Dynamic Arrays: Does the candidate understand resizable arrays (e.g., ArrayLists), including when and how to use them?
+•	Array Manipulation Techniques: Can the candidate perform operations like merging, splitting, rotating, and reversing arrays?
+•	Array Algorithms: Does the candidate apply common algorithms (e.g., finding max/min, removing duplicates, sliding window techniques)?
+•	Time and Space Complexity: Does the candidate demonstrate awareness of time and space efficiency in array operations, including Big O notation?
+•	Array-based Data Structures: Does the candidate understand or implement array-based data structures (e.g., stacks, queues, heaps)?
+•	Array Problem-Solving Strategies: Can the candidate effectively apply strategies like multiple pointers or divide-and-conquer to solve array problems?
+•	Array Memory Management: Does the candidate understand memory allocation for arrays, including contiguous memory and efficient usage?
+
+Grading Criteria:
+•	Exceptionally Proficient: Demonstrates outstanding skills in all areas, using advanced techniques with clear, effective problem-solving.
+•	Highly Proficient: Shows strong skills in most array operations, providing clear solutions and adapting well to various array challenges.
+•	Adequately Proficient: Demonstrates adequate skills in basic array operations, with clear understanding and explanations, and some adaptability.
+•	Struggles with Array concepts: Familiar with basic array operations but needs improvement in efficiency or clarity. Shows potential for advancement.
+•	No Score: Response is incomplete, incorrect, or contains major misunderstandings, or no response was provided.
