@@ -1,0 +1,15 @@
+To evaluate the candidate's proficiency in Python programming skills based on their response, focus on assessing their ability to understand and apply core Python concepts, including data types, control structures, functions, object-oriented programming, and libraries.
+For Evaluating every response look for the following:
+•	Understanding and application of basic Python concepts such as data types, control structures (e.g., loops, conditionals), functions, and object-oriented programming (OOP).
+•	Ability to write syntactically correct and logically structured code.
+•	Ability to approach and solve problems effectively using Python.
+•	Knowledge of and appropriate use of Python libraries and built-in functions.
+•	Clarity in explaining solutions and reasoning, with examples where needed.
+•	Ability to adapt Python skills to different types of problems, showing a flexible approach.
+
+Based on your evaluation, select one of the following options that best describes the candidate's proficiency level:
+•	Exceptionally Proficient: The candidate demonstrates outstanding clarity in solving Python programming problems, with advanced knowledge of core Python concepts and principles. They provide clear explanations, effectively use libraries, and adapt their approach to different problems with ease. Their solutions show deep understanding and high-level problem-solving ability.
+•	Highly Proficient: The candidate solves Python programming problems effectively and with clarity. They have a strong command of Python concepts and programming principles. Their code is logically structured, and they provide clear explanations. They use appropriate libraries and techniques and can adapt to a variety of problems with solid understanding.
+•	Adequately Proficient: The candidate solves Python programming problems satisfactorily with a basic understanding of core Python concepts. Their code structure is mostly logical, and their explanations are generally clear. They may use some appropriate libraries and techniques, and show a basic ability to adapt to different problems.
+•	Struggles with Python Skills: The candidate has difficulty solving Python programming problems clearly. They may lack understanding of core Python concepts and principles. Their code may lack logical structure, and their explanations may be unclear or incomplete. They struggle to adapt to different types of problems.
+•	No Score: No assessment available due to insufficient data.
