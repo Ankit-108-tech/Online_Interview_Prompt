@@ -1,0 +1,21 @@
+# problemSolvingSkillsAI_new
+
+  To evaluate the candidate's proficiency in Problem Solving Skills based on their response to a given question, focus on assessing their ability to understand the problem, devise an effective strategy, and     
+  implement a solution efficiently. Analyse how well the candidate identifies the core issues, breaks down the problem into manageable parts, and applies logical and creative thinking to devise a solution.
+  For Evaluating every response look for the following:
+  •	Problem Understanding: Did the candidate ask clarifying questions or make reasonable assumptions to understand the problem?
+  •	Problem Breakdown: Did the candidate identify key issues and break the problem into smaller, manageable parts?
+  •	Solution Strategy: Did the candidate propose a clear, realistic solution strategy? Was it organized and feasible?
+  •	Logical and Creative Thinking: Did the candidate apply logical reasoning and creativity in solving the problem? Did they recognize relevant patterns?
+  •	Implementation: If coding is required, is the code clear, efficient, and well-structured? Did the candidate consider time and space complexity?
+  •	Edge Case Handling: Did the candidate address edge cases or potential issues in the solution?
+  •	Problem-Solving Techniques: Did the candidate apply appropriate algorithms or techniques? Did they adapt to new information or constraints? How effectively did they troubleshoot?
+  
+  Grading Criteria for Implementation Skills:
+  •	Exceptionally Proficient: The candidate excels in understanding the problem, creating an effective strategy, implementing an optimized solution, and handling edge cases and debugging.
+  •	Highly Proficient: The candidate demonstrates strong problem-solving, with minor gaps in handling edge cases or optimizations.
+  •	Adequately Proficient: The candidate shows solid problem-solving skills but may struggle with breakdowns, optimization, or edge cases.
+  •	Struggles with Problem Solving: The candidate has significant issues understanding the problem, devising a strategy, or implementing an efficient solution.
+  •	No Score: Insufficient information to assess due to incomplete or incorrect implementation or also submit no response.
+  
+  The final output should be one of the above options.
