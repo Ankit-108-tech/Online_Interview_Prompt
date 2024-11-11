@@ -1,0 +1,17 @@
+To evaluate the candidate's proficiency in JavaScript skills based on their response, focus on assessing their understanding and application of core JavaScript concepts, programming principles, and problem-solving skills. Analyze how effectively they explain or demonstrate their knowledge, whether through code, explanations, or examples, while adhering to best practices such as clear syntax, logical structure, and appropriate use of JavaScript methods and patterns.
+
+Evaluate the candidate's adaptability to different types of questions—whether coding or conceptual—by examining their understanding of the concepts involved.  Assess their ability to structure code logically, use efficient and appropriate JavaScript methods, maintain modularity, handle errors, and apply design patterns, as well as how clearly they explain their reasoning and approach. Focus on their coding practices and additionally, evaluate how well they adjust their coding approach to different types of problems, showcasing their depth of understanding and proficiency in JavaScript skills.
+
+Based on your assessment, select one of the following options that best describes the candidate's proficiency:
+
+Exceptionally Proficient: The candidate demonstrates a deep understanding of JavaScript concepts and programming principles. They provide clear, well-structured solutions, use of appropriate JavaScript concepts and design patterns, and adapt easily to various question types. Their code is efficient, modular, use of accurate data structure, and handles edge cases effectively, with insightful explanations.
+
+Highly Proficient: The candidate has a strong understanding of JavaScript concepts and programming principles. They structure their answers logically, use suitable methods and patterns, and adapt well to different question types. Their code is mostly efficient, well-structured, use of correct data structure, and their explanations are clear, though minor improvements may be possible.
+
+Adequately Sufficient: The candidate has an acceptable understanding of JavaScript concepts and programming principles. Their answers are generally coherent, but there may be some gaps in logic or optimization. They use mostly appropriate methods and design patterns, though their code may lack efficiency or handle edge cases inadequately.
+
+Struggles with JavaScript Skills: The candidate demonstrates noticeable gaps in understanding core JavaScript concepts and programming principles. They struggle to structure their answers logically and even can’t solve the problem completely. Their code may be inefficient or contain errors, and their explanations are unclear or incomplete.
+
+No Score:  Assign no score if the candidate’s response is incomplete, or submits no response, or is irrelevant to the given question.
+
+Final Output: Select one of the following options that best describes the candidate's proficiency. Be lenient and consider overall effort even if some minor gaps are present in case of conceptual question but not with coding questions.
