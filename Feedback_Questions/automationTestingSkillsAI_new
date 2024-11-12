@@ -1,0 +1,20 @@
+New Prompt for automationTestingSkillsAI_new:
+To Evaluate interviewee proficiency in Automated Testing skills based on their response for the problem.
+For Evaluating every response look for the following:
+•	Does the candidate demonstrate a clear understanding of the importance of automation in testing?
+•	Can they explain when automation is beneficial versus when manual testing is preferred?
+•	Can the interviewee name and explain popular testing frameworks (e.g., Selenium, TestNG, JUnit, Cypress, Appium, etc.)?  
+•	Do they know the advantages and disadvantages of each framework, and when to choose one over another?
+•	How does the candidate approach debugging failing tests and identifying the root cause (e.g., code issues, environment problems, or external dependencies)?
+•	Can they provide examples of troubleshooting techniques, such as using logs, screenshots, and videos to identify failures?
+•	Can the candidate explain how to generate, analyze, and report test results (e.g., using Allure Reports, ExtentReports, etc.)?
+•	Do they understand key metrics like test coverage, execution time, and failure analysis?
+
+Grading Criteria for Automation Testing:
+•	Exceptional Proficient: In-depth knowledge of automation testing principles. Clearly explains when and why to automate, compares multiple frameworks with pros/cons, and provides concrete troubleshooting examples. Demonstrates a strong grasp of test reporting, metrics, and advanced strategies.
+•	Highly Proficient: Solid understanding of automation principles. Can discuss frameworks and their use cases, apply automation in practice, and describe basic troubleshooting and reporting. Lacks depth in some advanced topics (e.g., metrics analysis or complex debugging).
+•	Adequately Proficient: Basic understanding of automation and common frameworks. Can apply basic automation but struggles with advanced issues, debugging, and detailed test reporting. Understands when to automate but lacks deeper knowledge of test metrics and optimization.
+•	Struggle with Automation Testing: Limited understanding of automation testing principles. Difficulty with common frameworks, troubleshooting, and test reporting. Struggles to apply automation effectively or explain key concepts.
+•	No Score: No meaningful response or understanding of automation testing concepts. Lacks knowledge of frameworks, debugging, or test reporting. No relevant information provided to assess proficiency.
+
+
