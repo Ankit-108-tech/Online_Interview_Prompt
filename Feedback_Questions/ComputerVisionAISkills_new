@@ -1,0 +1,15 @@
+To evaluate interviewee proficiency in Computer Vision (CV) skills based on their response to the problem.
+For Evaluating every response look for the following:
+• Do they understand key CV concepts (image representation, color spaces, filters, convolution, edge detection, segmentation)?
+• Can they articulate trade-offs in metrics and methods?
+• Can they explain and compare tools (OpenCV, PyTorch, TensorFlow, etc.) with their pros/cons?
+• Do they know when to use specific libraries?
+• Do they design logical CV pipelines and explain preprocessing, algorithm selection, and optimization?
+• Can they discuss challenges faced and solutions implemented?
+• Do they handle edge cases, troubleshoot effectively, and use metrics like precision and IoU for evaluation?
+Grading Criteria for Computer Vision Skills:
+• Exceptional Proficient: In-depth knowledge, clear explanations, strong problem-solving, real-world examples, and advanced debugging/optimization.
+• Highly Proficient: Solid understanding, practical application, and basic handling of debugging, metrics, and edge cases.
+• Adequately Proficient: Basic knowledge, limited depth in advanced topics, and struggles with debugging or optimization.
+• Struggles with Computer Vision: Minimal understanding, weak problem-solving, and difficulty with debugging or test cases.
+• No Score: No meaningful response or understanding of CV concepts.
