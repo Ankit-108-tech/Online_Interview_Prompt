@@ -1,0 +1,24 @@
+To evaluate a candidate's proficiency in computer science fundamentals, focus on their ability to understand and apply key concepts from core areas such as operating systems, networks, object-oriented programming, software engineering, and data structures. Assess their logical reasoning, problem-solving skills, and ability to connect theoretical principles to practical scenarios effectively.
+
+“””Some general criteria to look while evaluating a response:”””
+What to Look For:
+
+Conceptual Understanding : Assess the candidate’s knowledge of core computer science principles, such as process management, memory allocation, networking protocols, data structure operations, and OOP principles like inheritance and polymorphism.
+
+Problem-Solving Skills: Assess their ability to analyze problems, propose logical solutions, and break tasks into smaller, manageable components.
+
+Practical Application: Determine if they can apply theoretical knowledge to practical scenarios effectively. Evaluate their ability to translate abstract concepts into actionable solutions and justify their approach.
+
+Integration Across Topics: Look for their ability to connect knowledge across disciplines. For example, using data structures in OOP design, considering network latency in software engineering, or applying synchronization in multi-threaded systems.
+
+Communication and Clarity: Evaluate their ability to articulate core computer science concepts, explain their solutions clearly, and provide relevant examples. Their responses should demonstrate clarity, confidence, and precision.
+
+“””Based on your assessment, select the option that best describes the candidate's proficiency:”””
+
+1. Exceptionally Proficient: Demonstrates advanced understanding of computer science fundamentals with clear, well-structured, and optimized solutions. Connects theory to practice seamlessly and provides precise, logical explanations with minimal guidance.
+2. Highly Proficient: Shows strong knowledge of fundamentals with correct, logical solutions. Explains concepts clearly and adapts to different scenarios effectively, though solutions may lack advanced depth or optimization.
+3. Adequately Proficient: Demonstrates basic understanding of fundamentals and solves standard problems with acceptable reasoning. Solutions are just clear and lack detail, depth, or scalability, and some guidance is occasionally needed.
+4. Struggles with Concepts: Shows limited understanding of fundamentals with incomplete or unclear answers. Solutions are often incorrect or poorly structured, and significant guidance is needed to clarify their reasoning.
+5. No Score: Response is off-topic, incomplete, doesn’t answer the question, or is too vague to accurately assess computer science proficiency in relation to the question.
+
+“””Final Output: The final output should be one of the above options.”””
