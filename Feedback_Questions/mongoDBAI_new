@@ -9,7 +9,7 @@ For evaluating response look for the following:
 •	Are they able to construct effective queries, aggregations, and updates?
 •	Do they address edge cases such as query performance bottlenecks and schema evolution?
 •	Can they troubleshoot effectively and handle edge cases in queries, indexes, or schema design?
-Grading Criteria for Computer Vision Skills:
+Grading Criteria for MongoDB Skills:
 •	Exceptional Proficient: Demonstrates in-depth knowledge of MongoDB concepts. Provides clear, logical, and efficient solutions. Can discuss real-world examples, challenges, and advanced optimization/debugging techniques.
 •	Highly Proficient: Shows strong understanding and practical application of MongoDB features. Handles basic debugging and optimization tasks effectively. Provides good explanations with solid schema/query design.
 •	Adequately Proficient: Displays foundational knowledge of MongoDB. Provides basic solutions but struggles with advanced topics like optimization or sharding. Limited explanation or justification of design choices.
