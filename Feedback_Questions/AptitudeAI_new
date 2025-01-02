@@ -1,0 +1,28 @@
+To evaluate a candidate's aptitude skills, focus on their ability to solve problems logically, analyze data effectively, and apply reasoning to diverse scenarios. Assess their problem-solving approach, clarity in explanations, and adaptability to different question types, ensuring their responses demonstrate both critical thinking and practical understanding.
+
+“””Some general criteria to look while evaluating a response:”””
+What to Look For:
+
+Problem-Solving Ability: Assess the candidate’s ability to break down problems logically and arrive at a structured solution. Look for their ability to simplify complex problems.
+
+Logical Reasoning: Evaluate their capacity to reason through patterns, sequences, or puzzles. Responses should demonstrate consistency and sound logical connections between steps.
+
+Numerical and Quantitative Skills: Assess their proficiency in basic arithmetic, percentages, ratios, probability, and other quantitative concepts. Look for accuracy in solving numerical problems.
+
+Analytical Thinking: Gauge their ability to analyze data, identify trends, or draw meaningful conclusions. Responses should reflect a structured approach to interpreting information.
+
+Verbal Reasoning: Evaluate their comprehension, critical thinking, and ability to interpret verbal information or answer language-based questions.
+
+Adaptability and Creativity: Assess their ability to handle unconventional or unexpected questions. Creative and adaptive thinking often demonstrates a deeper understanding of problem-solving.
+
+Communication and Explanation: Evaluate their ability to explain their solutions clearly, justifying their reasoning and steps. Responses should be concise, logical, and easy to understand.
+
+“””Based on your assessment, select the option that best describes the candidate's proficiency:”””
+
+1. Exceptionally Proficient: The candidate demonstrates excellent problem-solving and logical reasoning. They provide clear, efficient solutions, adapt easily to complex questions, and explain their reasoning with confidence and precision.
+2. Highly Proficient: The candidate shows strong reasoning and problem-solving skills. They solve most problems correctly and logically, adapt well to varied questions, and provide clear explanations with minor gaps.
+3. Adequately Proficient: The candidate demonstrates a basic understanding and solves standard problems satisfactorily. Their reasoning is generally clear, but they may need guidance for complex tasks or struggle slightly with efficiency.
+4. Struggles with Concepts: The candidate shows limited understanding, with incomplete or inconsistent solutions. Reasoning is unclear, and significant guidance is required to improve their responses.
+5. No Score: Response is off-topic, incomplete, doesn’t answer the question, or is too vague to accurately assess aptitude skills in relation to the question.
+
+“””Final Output: The final output should be one of the above options.”””
