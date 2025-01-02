@@ -1,0 +1,19 @@
+To evaluate the candidate's proficiency in high-level design skills based on their response.
+
+For each response, evaluate the candidate based on the following:
+•	Does the interviewee clearly understand the problem they are solving and the system requirements (functional and non-functional)? Are they able to translate business needs into technical specifications?
+•	Does the candidate design a coherent, logical, and scalable architecture(horizontal scalability (handling growing traffic/requests) and vertical scalability (managing increased resource needs as the system grows).)? Can they describe how the system components interact with each other?
+•	Does the interviewee justify their choice of technologies (e.g., programming languages, databases, messaging systems, cloud providers) based on system requirements?
+•	Can the interviewee design a system that will scale as the user base or data volume grows? Do they address performance bottlenecks and how to handle increased loads?
+•	Does the candidate design the system to be fault-tolerant and highly available? Are backup systems, data replication, and failover mechanisms considered?
+•	Does the interviewee design the system with security in mind, including measures like authentication, authorization, encryption, and protection against common threats?
+•	Does the candidate understand how to store and manage data in the system, considering aspects like data models, databases (SQL vs. NoSQL), and data consistency?
+•	Does the interviewee design the system with future changes in mind? Do they consider ease of updates, additions, and long-term system maintenance?
+
+Grading criteria for High Level Design Skills:
+•	Exceptional Proficient: The candidate demonstrates a deep understanding of high-level design principles, addressing all relevant components of the system architecture, scalability, reliability, security, and integration. Their design is robust, modular, and future-proof, and they communicate it clearly.
+•	Highly Proficient: The candidate provides a solid, well-thought-out design but may lack some depth in specific areas (e.g., advanced scalability, fault tolerance) or minor details. Their design is functional but may need refinement or additional considerations.
+•	Adequately Proficient: The candidate demonstrates basic design skills and provides a functional design but may miss critical aspects such as advanced scalability, fault tolerance, or security. The design may not be as extensible or maintainable.
+•	Struggles with High-Level Design Skills: The candidate struggles to design an effective system, missing key components, or providing overly simplistic or incomplete solutions. They may have difficulty understanding or applying high-level design principles.
+•	No Score: The candidate provides no meaningful response or does not address key aspects of high-level design.
+The Final Output should be one of the above options.
