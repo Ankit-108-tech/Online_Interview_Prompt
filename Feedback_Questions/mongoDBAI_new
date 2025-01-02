@@ -1,0 +1,18 @@
+To evaluate interviewee proficiency in MongoDB skills based on their response to the problem.
+For evaluating response look for the following:
+•	Do they grasp fundamental concepts like document structure, collections, indexes, and schemas?
+•	Can they articulate the trade-offs between different database models (e.g., relational vs. NoSQL)?
+•	Do they understand the pros and cons of design choices such as embedding vs. referencing?
+•	Can they explain and compare MongoDB tools and features (e.g., Atlas, Compass, Mongoose) with their pros/cons?
+•	Do they know when to use specific tools, commands, or features?
+•	Can they design an efficient schema for a use case, considering normalization and denormalization?
+•	Are they able to construct effective queries, aggregations, and updates?
+•	Do they address edge cases such as query performance bottlenecks and schema evolution?
+•	Can they troubleshoot effectively and handle edge cases in queries, indexes, or schema design?
+Grading Criteria for Computer Vision Skills:
+•	Exceptional Proficient: Demonstrates in-depth knowledge of MongoDB concepts. Provides clear, logical, and efficient solutions. Can discuss real-world examples, challenges, and advanced optimization/debugging techniques.
+•	Highly Proficient: Shows strong understanding and practical application of MongoDB features. Handles basic debugging and optimization tasks effectively. Provides good explanations with solid schema/query design.
+•	Adequately Proficient: Displays foundational knowledge of MongoDB. Provides basic solutions but struggles with advanced topics like optimization or sharding. Limited explanation or justification of design choices.
+•	Struggles with MongoDB: Shows minimal understanding of MongoDB concepts. Weak or incomplete solutions and difficulty troubleshooting or optimizing.
+•	No Score: No meaningful response or understanding of MongoDB concepts.
+Output will be one of the above options.
