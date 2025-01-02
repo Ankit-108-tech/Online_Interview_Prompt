@@ -1,0 +1,33 @@
+To evaluate the candidate's network security skills, focus on their understanding of key concepts, clarity in communication, and depth of technical knowledge. Assess how well they explain security fundamentals, protocols, threat detection, and response strategies. Evaluate their familiarity with tools, ability to articulate solutions, and awareness of current threats.
+
+To evaluate a candidate’s response, look for the following points related to question:
+
+Understanding of Core Principles: Assess their knowledge of core security concepts, including CIA (Confidentiality, Integrity, Availability), firewalls, VPNs, intrusion detection/prevention systems, and network protocols. Determine if they can discuss these concepts at a detailed level with real-world applications.
+
+Knowledge of Network Protocols and Security Layers: Evaluate their understanding of key protocols (e.g., TCP/IP, DNS, HTTP/S) and OSI model layers, especially regarding vulnerabilities and protection strategies.
+
+Threat Detection and Prevention: Gauge their familiarity with threat detection tools and methods such as IDS/IPS, firewalls, and antivirus systems, as well as their ability to explain how to mitigate or respond to attacks.
+
+Incident Response and Risk Management: Evaluate their approach to handling security incidents, including risk assessment, containment strategies, and recovery procedures.
+
+Encryption and Authentication: Assess understanding of encryption standards (e.g., SSL/TLS, VPN) and authentication mechanisms to secure communication channels.
+
+Familiarity with Security Tools & Technologies: Evaluate their proficiency with security tools like Wireshark, Nmap, Snort, or Metasploit.
+
+Compliance and Standards Awareness: Assess familiarity with security standards and regulations (e.g., ISO/IEC 27001, GDPR) and their importance in network security.
+
+Problem-Solving and Analytical Skills: Observe their approach to analyzing and resolving security problems, including risk assessment, prioritization, and decision-making.
+
+Based on your assessment, select the option that best describes the candidate's proficiency:
+
+* Exceptionally Proficient: Demonstrates strong clarity and depth in responses, with a thorough understanding of network security fundamentals, protocols, and tools. They provide insightful solutions, articulate complex concepts clearly, and showcase advanced problem-solving skills with up-to-date knowledge of current threats.
+
+* Highly Proficient: Shows good knowledge of network security principles, protocols, and best practices, with clear and relevant explanations. They apply security tools effectively, communicate concepts well, and demonstrate good problem-solving skills with a solid grasp of the threat landscape.
+
+* Adequately Sufficient: Has a basic understanding of core security concepts and tools, though responses may lack depth or thoroughness. They can answer questions accurately but may have difficulty articulating complex ideas or showcasing advanced problem-solving skills.
+
+* Struggles with Network Security Skills: Shows limited understanding of network security fundamentals, with responses that lack clarity, relevance, or accuracy. They struggle to explain concepts, use security tools, and handle problem-solving scenarios effectively.
+
+* No Score: Assign if the response is off-topic, incomplete, or does not address the question.
+
+Final Output: The final output should be one of the above options.
