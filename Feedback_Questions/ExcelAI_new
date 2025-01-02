@@ -1,0 +1,24 @@
+To evaluate the candidate's Excel proficiency by assessing their ability to understand and apply core concepts like formulas, functions, data manipulation, and visualization. Focus on their command of Excel features, logical structuring, problem-solving, and clear explanations. Assess their use of best practices, adaptability to varied tasks, and ability to present complex concepts with clarity and precision.
+
+“””Some general criteria to look while evaluating a response:”””
+
+What to Look For: 
+Core Excel Concepts: Familiarity with basic and advanced concepts functions of excel such as SUM, AVERAGE, IF statements, VLOOKUP, and INDEX-MATCH, and their ability to use formulas for practical problem-solving.
+
+Logical Problem-Solving: Capability to break down problems, structure solutions logically, and use Excel functions or tools to implement them. Assess their ability to adapt to new or unfamiliar challenges. Proficiency in organizing and analyzing data using tools like sorting, filtering, PivotTables, and conditional formatting. Evaluate their ability to summarize and interpret data.
+
+Data Handling: Proficiency in organizing, cleaning, and managing data effectively, ensuring accuracy and usability regardless of dataset size or complexity.
+
+Visualization and Reporting: Competence in creating charts, graphs, and dashboards to present data clearly. Look for an ability to format and organize reports professionally.
+
+Communication and Clarity: Clarity in explaining their thought process, chosen approach, and the results of their work. Effective communication ensures their solutions are understandable and replicable.
+
+“””Based on your assessment, select the option that best describes the candidate's proficiency:”””
+
+1. Exceptionally Proficient: The candidate demonstrates exceptional clarity, mastery of core Excel concepts, and effective use of functions and tools. They adapt seamlessly to different tasks and provide precise, innovative solutions.
+2. Highly Proficient: The candidate solves Excel problems effectively with a solid grasp of core concepts. Their work is logical, uses appropriate functions, and adapts well to various tasks with clear explanations.
+3. Adequately Proficient: The candidate solves problems satisfactorily with a basic understanding of Excel concepts. They use mostly appropriate tools, provide reasonable explanations, and adapt adequately to standard tasks.
+4. Struggles with Excel Skills: The candidate shows gaps in understanding Excel concepts, struggles with logical structuring, and provides unclear or incomplete solutions. Their adaptability to tasks is limited.
+5. No Score: The candidate demonstrates no understanding of Excel. Response is off-topic, incomplete, answer provided is irrelevant to the question.
+
+“””Final Output: The final output should be one of the above options.”””
