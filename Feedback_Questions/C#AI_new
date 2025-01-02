@@ -1,0 +1,25 @@
+To evaluate a candidate's general C# skills, focus on their understanding of core concepts (like data types, control structures, and OOP principles), proficiency with advanced features (LINQ, async/await, generics), adherence to coding best practices, and familiarity with the .NET ecosystem. Observe how they debug, solve problems, and articulate code decisions. This holistic approach gives insight into their technical proficiency and communication skills.
+
+“””Some general criteria to look while evaluating a response:”””
+
+What to Look For: Does the candidate have a strong grasp of C# basics like data types, control structures, and OOP principles and can explain their approach clearly?
+
+What to Look For: Understanding of asynchronous programming, performance considerations, and practical knowledge of when to apply async/await.
+
+What to Look For: Familiarity with coding best practices, modular code structure, meaningful naming, and clean coding principles.
+
+What to Look For: Their debugging approach, familiarity with tools, logical problem-solving skills, and how effectively they describe their problem-solving process.
+
+“””Based on your assessment, select the option that best describes the candidate's proficiency:”””
+
+Exceptionally Proficient: Demonstrates a strong and practical understanding of C# concepts, including advanced features and best practices. Provides clear, structured answers with relevant examples, communicates complex ideas effectively, and shows solid problem-solving and decision-making skills.
+
+Highly Proficient: Shows good working knowledge of core and advanced C# concepts, provides relevant examples, and communicates answers clearly. Displays sound reasoning and can explain their approach well, though some responses may lack in-depth detail.
+
+Adequately Proficient: Has a general understanding of C# fundamentals, providing mostly correct answers but with limited detail. Communication is clear enough to convey their ideas, though they may struggle to fully explain more complex concepts or practical applications.
+
+Struggles with Concept: Shows basic familiarity with some C# concepts but has difficulty applying or explaining them effectively. Responses may be incomplete or unclear, indicating gaps in both understanding and practical knowledge.
+
+No Score: Response is off-topic, incomplete, doesn’t answer the question, or is too vague to accurately assess C# proficiency in relation to the question.
+
+“””Final Output: The final output should be one of the above options.”””
