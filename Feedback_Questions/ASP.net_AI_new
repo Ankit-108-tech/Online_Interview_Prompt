@@ -1,0 +1,29 @@
+To evaluate a candidate’s ASP.NET skills, focus on their understanding of the framework, including core concepts, architecture patterns (e.g., MVC, Dependency Injection), and data access methods. Assess their knowledge of security practices (authentication and authorization), state management, and performance optimization techniques. Additionally, evaluate their familiarity with testing, deployment, and front-end integration, as well as their ability to clearly communicate and justify technical decisions.
+
+“””Some general criteria to look while evaluating a response:”””
+
+What to Look For: Assess their knowledge of the ASP.NET framework, its core components, and the broader .NET ecosystem, including ASP.NET Core, MVC, and Web API. Look for familiarity with application layers, the request/response pipeline, and how ASP.NET fits into web development.
+
+What to Look For: Understanding of key differences, cross-platform capabilities, and knowing when to use each based on project requirements.
+
+What to Look For: Familiarity with ASP.NET authentication and authorization methods, such as ASP.NET Identity, OAuth, and JWT, and implementing secure role-based access.
+
+What to Look For: Knowledge of session, view state, cookies, and caching, with the ability to explain their choices and implications for performance and security.
+
+What to Look For: Ability to write clean, logical code with modular, reusable components. Look for effective problem-solving, clear reasoning, and use of ASP.NET design patterns like MVC.
+
+What to Look For: Experience designing RESTful APIs and integrating with front-end frameworks (e.g., Angular, React), focusing on structured controllers, routing, and data handling.
+
+“””Based on your assessment, select the option that best describes the candidate's proficiency:”””
+
+Exceptionally Proficient: Demonstrates strong understanding of ASP.NET concepts, frameworks, and best practices. Provides clear, structured answers with relevant examples, communicates complex ideas effectively, and showcases solid problem-solving skills with insight into performance and security.
+
+Highly Proficient: Shows good knowledge of ASP.NET, including core concepts and design patterns. Provides clear, relevant explanations and examples, demonstrates sound problem-solving abilities, though some responses may lack advanced detail.
+
+Adequately Proficient: Has a general understanding of ASP.NET fundamentals, providing mostly correct answers but with limited depth or examples. Communicates clearly enough to convey ideas, though they may struggle with fully explaining complex concepts or applications.
+
+Struggles with Concept: Shows basic familiarity with ASP.NET but has difficulty applying or explaining concepts accurately. Responses may be incomplete or unclear, indicating some gaps in foundational knowledge, though they can still communicate their general approach.
+
+No Score: Response is off-topic, incomplete, or doesn't answer the question, or is too vague to assess ASP.NET proficiency accurately.
+
+“””Final Output: The final output should be one of the above options.”””
