@@ -1,0 +1,18 @@
+To evaluate interviewee proficient in Security Testing skills based on their response, focus on accessing interviewees understanding of security testing principles, their ability to apply them, and how well they can identify and address security vulnerabilities in software.
+
+For each response, evaluate the candidate based on the following:
+•	Does the candidate understand the key concepts of security testing, including the importance of securing applications against threats and vulnerabilities?
+•	Can they explain different types of security testing (e.g., penetration testing, vulnerability scanning, risk assessment, and ethical hacking)?
+•	Does the candidate demonstrate knowledge of common security vulnerabilities (e.g., SQL injection, Cross-Site Scripting (XSS), Cross-Site Request Forgery (CSRF), insecure deserialization) and how they are exploited?
+•	Can they explain how to test for these vulnerabilities and what tools/methods are typically used?
+•	Does the candidate demonstrate knowledge of secure coding practices (e.g., input validation, output encoding, proper authentication mechanisms)?
+•	Does the candidate understand how to handle security incident response, including reporting vulnerabilities, and suggesting mitigation strategies?
+•	Can they provide clear documentation and reports for identified vulnerabilities?
+
+Grading criteria for Security Testing:
+•	Exceptional Proficient: Demonstrates deep knowledge of security testing principles and vulnerabilities. Effectively applies testing techniques and tools, has a strong understanding of secure coding practices, and can provide actionable reports. Able to suggest comprehensive mitigation strategies and perform thorough risk assessments.
+•	Highly Proficient: Solid understanding of security testing concepts and vulnerabilities. Can apply most testing methods effectively, but may lack depth in some areas (e.g., advanced mitigation strategies or niche vulnerabilities). Good knowledge of secure coding practices and incident response.
+•	Adequately Proficient: Basic understanding of security testing and common vulnerabilities. Can perform basic testing tasks but may struggle with more complex techniques or advanced vulnerabilities. Limited experience in incident response and secure coding practices.
+•	Struggle with Security Testing: Limited understanding of security testing principles and basic vulnerabilities. Difficulty applying security testing methods or identifying common vulnerabilities. Inadequate knowledge of secure coding practices and incident response.
+•	No Score: No meaningful response or lack of understanding of security testing concepts. Unable to identify vulnerabilities or apply basic testing techniques.
+The output should be one of the above Grade.
