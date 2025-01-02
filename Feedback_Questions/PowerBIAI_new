@@ -1,0 +1,21 @@
+To assess the candidate's Power BI skills by evaluating their ability to apply core features, create meaningful visualizations, and solve data problems effectively. Focus on their adaptability, problem-solving, and clarity in communicating insights.
+
+“””Some general criteria to look while evaluating a response:”””
+
+What to Look For: 
+Core Power BI Concepts: Understanding of Power BI’s primary components, including Power Query, DAX, data modeling, and visualization techniques. Assess their familiarity with creating relationships, using calculated fields, and designing reports.
+Data Import and Transformation: Ability to connect to diverse data sources and use Power Query for cleaning and transforming data. This reflects their capability to handle raw data and prepare it for analysis in real-world scenarios.
+Data Modeling: Proficiency in designing data models with proper relationships and schema design (e.g., star schema). Knowledge of calculated columns and measures indicates they can build efficient and scalable models.
+Data Visualization: Ability to design interactive, user-friendly dashboards using appropriate visuals (e.g., charts, slicers, KPIs). Strong visualization skills ensure data is presented clearly and effectively for decision-making.
+Problem-Solving and Adaptability: Ability to analyze business problems, select appropriate Power BI features, and structure solutions logically. Adaptability to various tasks and creative problem-solving demonstrate their practical application skills.
+Communication and Explanation: Clarity in explaining their approach to creating reports, building models, and solving problems. Effective communication ensures their solutions are accessible and actionable for both technical and non-technical audiences.
+
+“””Based on your assessment, select the option that best describes the candidate's proficiency:”””
+
+1. Exceptionally Proficient: Demonstrates strong mastery of Power BI concepts like data modeling, DAX, and visualization. Provides clear, efficient solutions, adapts well to different scenarios, and explains their approach with confidence and clarity.
+2. Highly Proficient: Shows solid understanding and practical application of Power BI. Answers are clear, logical, and make effective use of features. Adapts to various scenarios with minimal issues.
+3. Adequately Proficient: Demonstrates basic understanding of Power BI. Solves standard problems using core features with reasonable explanations. Adaptability to more complex tasks may be limited but acceptable.
+4. Struggles with Power BI Skills: Shows limited understanding of Power BI concepts. Responses may lack clarity or completeness, with noticeable difficulty in applying tools or adapting to tasks.
+5. No Score: Response is off-topic, incomplete, doesn’t answer the question, or is too vague to accurately assess Power BI proficiency in relation to the question.
+
+“””Final Output: The final output should be one of the above options.”””
