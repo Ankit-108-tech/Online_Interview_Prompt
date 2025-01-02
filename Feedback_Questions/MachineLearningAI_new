@@ -1,0 +1,26 @@
+To evaluate the candidate's machine learning proficiency by assessing their ability to apply core concepts like data preprocessing, model selection, implementation, and evaluation. Focus on their statistical knowledge, programming skills, adaptability, decision-making, and clarity in explaining complex concepts. Evaluate how well they structure their approach, justify their decisions.
+
+“””Some general criteria to look while evaluating a response:”””
+
+What to Look For: 
+Core ML Concepts: Understanding of ML fundamentals (supervised, unsupervised, reinforcement learning) and key algorithms (e.g., SVM, decision trees, neural networks). This demonstrates foundational knowledge.
+
+Problem-Solving Skills: Ability to break down complex problems, select appropriate algorithms, and justify choices. This reflects how well the candidate applies theoretical knowledge to real-world scenarios.
+
+Coding Proficiency: Skill with Python (or relevant languages), libraries (scikit-learn, TensorFlow, Py-Torch), and writing clean, efficient, modular code. Proficiency ensures practical expertise in implementing robust ML solutions.
+
+Data Handling and Preprocessing: Understanding of data preprocessing techniques like normalization, handling missing values, encoding, feature selection, and dimensionality reduction. Ability to address data quality, imbalanced datasets, and outliers effectively.
+
+Model Evaluation: Knowledge of evaluation metrics (e.g., accuracy, precision, recall, F1-score) and methods (e.g., cross-validation, grid search).
+
+Communication: Ability to explain complex concepts clearly and with structured and concise explanations. 
+
+“””Based on your assessment, select the option that best describes the candidate's proficiency:”””
+
+1. Exceptionally Proficient: The candidate demonstrates exceptional clarity and expertise in solving ML problems, with a deep understanding of concepts. Ability to select appropriate models confidently and adapt effectively to various scenarios.
+2. Highly Proficient: The candidate solves problems clearly and logically, showing strong understanding of concepts and techniques. Ability to choose suitable models and adapt well to most scenarios with minimal guidance.
+3. Adequately Proficient: The candidate demonstrates a basic understanding, provides acceptable explanations, and chooses mostly appropriate models. Ability to handle standard tasks with some limitations in depth or adaptability.
+4. Struggles with ML Skills: The candidate has noticeable gaps in understanding and provides incomplete or unclear responses. Their model choices are sometimes inappropriate, and adaptability is limited but not entirely absent.
+5. No Score: Response is off-topic, incomplete, doesn’t answer the question, or is too vague to accurately assess machine learning proficiency in relation to the question.
+
+“””Final Output: The final output should be one of the above options.”””
