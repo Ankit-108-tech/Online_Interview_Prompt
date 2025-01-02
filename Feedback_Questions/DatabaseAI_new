@@ -1,0 +1,31 @@
+To evaluate the candidate’s schema-level database skills, focus on their understanding of design principles, schema relationships, and use of indexing and constraints. Assess how well they justify design choices, apply normalization, and address performance, scalability, and data integrity in real-world scenarios.
+
+For each response, evaluate the candidate based on the following:
+
+Understanding of Database Design Principles: Assess their knowledge of design principles like normalization, denormalization, efficient table structures, and ACID principles. Look for their ability to explain when to apply each in real-world scenarios.
+
+Schema Structure and Relationships: Evaluate their skill in designing schema relationships (e.g., one-to-one, one-to-many, many-to-many) and understanding of foreign keys, indexes, and constraints. Check if they can justify primary and foreign key choices based on data relationships
+
+Normalization and Data Integrity: Ask about normalization forms (1NF, 2NF, 3NF, etc.) and observe if they understand how to avoid redundancy while maintaining data integrity. Gauge their ability to spot and resolve anomalies (insertion, update, and deletion anomalies).
+
+Indexing and Performance Optimization: Check their understanding of indexing strategies, their impact on performance, and how to use indexes effectively to optimize schema performance.
+
+Database-Specific Schema Skills: Assess their familiarity with schema features specific to the database platform (e.g., PostgreSQL, MySQL, MongoDB) they’re using, such as unique indexes, stored procedures, or triggers.
+
+Scalability and Adaptability: Assess their approach to designing schemas that scale with data growth, handle complex data types, and adapt to evolving requirements (e.g., partitioning, schema evolution).
+
+Clear Communication and Justification of Design Choices: Observe their ability to explain and justify schema design decisions, balancing factors like performance, scalability, and data integrity effectively.
+
+Based on your assessment, select the option that best describes the candidate's proficiency:
+
+Exceptionally Proficient: Demonstrates a strong understanding of schema design principles, including normalization, relationships, and indexing. Clearly explains and justifies design decisions with insights on performance, scalability, and data integrity. Shows deep knowledge of database-specific features and complex data handling.
+
+Highly Proficient: Shows good knowledge of schema design, effectively using relationships, constraints, and indexing. Provides clear explanations of design choices, balancing performance and scalability, and demonstrates familiarity with platform-specific features.
+
+Adequately Proficient: Has a basic understanding of schema design and core principles, though responses may lack depth. Can explain standard schema elements but may struggle with advanced design or optimization.
+
+Struggles with Database Schema Skills: Shows limited understanding of schema design fundamentals, with responses that lack clarity or accuracy. Struggles with concepts.
+
+No Score: Assign if the response is off-topic, incomplete, or does not address schema design concepts relevant to the question.
+
+Final Output: The final output should be one of the above options.
